@@ -1,0 +1,19 @@
+{
+  "name": "backend-game-tower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.16.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.16.1"
+  }
+}
